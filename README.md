@@ -1,4 +1,4 @@
-# applied-data-science-capstone
+# Applied Data Science - Capstone
 Capstone de Ciência de Dados Aplicada
 
 Este é o curso final do IBM Data Science Professional Certificate, bem como da especialização Applied Data Science with Python.
